@@ -1,2 +1,0 @@
-# Assignments
-Zuri Internship task
